@@ -1,4 +1,4 @@
-'use sctrict';
+"use strict";
 
 const client = require('cheerio-httpcli'),
     request = require('request'),

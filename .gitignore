@@ -2,6 +2,7 @@
 /node_modules
 /img
 npm-debug.log
+/nodejs.org
 
 # http://www.gnu.org/software/automake
 
