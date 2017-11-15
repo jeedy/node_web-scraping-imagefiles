@@ -1,6 +1,6 @@
 # node_web-scraping-imagefiles
 
-Chapter 2. 웹데이터 수집 02 HTML 해석 - 웹 크롤링 테크닉
+Chapter 2. 웹데이터 수집 - 웹 크롤링 테크닉
 ============
 1. dl-image.js / 02 HTML 해석(링크와 이미지추출)
 1. getall.js / 03 사이트 통째로 다운로드
